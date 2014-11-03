@@ -5,9 +5,9 @@ The file data.pdf contains the observation of a study on crabs found around the 
 
 The challenge consist of making some sense out of those data. First, extract the data from the dirty PDF file, then perform any kind of analysis you think maybe of interest. We're notably looking for a method to predict the age of a crab given its features.
 
-= Deliverables
+# Deliverables
 
-== Prediction model
+## Prediction model
 
 The first deliverable is a program that takes a CSV input from the command line with the following fields, in this order, separated by a comma:
 
@@ -45,7 +45,7 @@ The quality and the style of the code and its organization will be evaluated.
 
 You are free to develop in any language of your choice. Clear instruction on how to run/compile the program must be given.
 
-== Presentation
+## Presentation
 
 You will be asked to give a presentation about your results. The format is yours to decide, we recommend a presentation no longer than 15 minutes, followed by questions from the audience. As an exercise, assume you are talking to crab-aware people about your finding and how it can help them, but only some of them knows about data mining. You may prepare a summary of your work to be transmitted before the presentation, at your convenience.
 
