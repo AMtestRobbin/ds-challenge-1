@@ -1,5 +1,9 @@
 # Solution to Asia Miles Data Challenge
 
+Currently tested on Python 3.6, Ubuntu 16.04.5
+
+# Guidence of files
+
 model.pkl - model file including Ridge, BayesianRidge, Lasso and XGBoost 
 
 work.ipynb - main work and training code (as reference only)
