@@ -1,5 +1,4 @@
 # Solution to Asia Miles Data Challenge
-=========================
 
 model.pkl - model file including Ridge, BayesianRidge, Lasso and XGBoost 
 
