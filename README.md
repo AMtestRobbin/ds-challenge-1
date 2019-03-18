@@ -30,5 +30,5 @@ cat test.csv | python predict.py model.pkl > test_scored.csv
 Step 3. Evaluate result
 
 ```
-cat test.csv | python predict.py model.pkl > test_scored.csv | python evaluate.py > stats.log
+cat test.csv | python predict.py model.pkl | python evaluate.py > stats.log
 ```
