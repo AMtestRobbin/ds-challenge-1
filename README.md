@@ -9,7 +9,7 @@ predict.py - scoring code
 evaluate.py - generate evaluation stats
 
 
-# Below is the guidence about how to score new data set
+# Guidence of scoring
 
 Step 1. Install python packages
 
